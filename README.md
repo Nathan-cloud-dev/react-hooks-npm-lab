@@ -4,7 +4,7 @@
 
 - Use a `package.json` file to manage project dependencies
 - Install a project dependency using npm
-- Import code from a package into a JavaScript file
+- Import code from a package into a JavaScript file..
 
 ## Introduction
 
